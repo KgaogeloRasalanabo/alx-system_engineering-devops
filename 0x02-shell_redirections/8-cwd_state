@@ -1,2 +1,2 @@
 #!/bin/bas
-chmod u+x echo "ls -la" > ls_cwd_content
+sudo sh -c 'echo "ls -la" > ls_cwd_content'
