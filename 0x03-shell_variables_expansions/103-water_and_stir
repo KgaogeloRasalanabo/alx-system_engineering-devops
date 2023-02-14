@@ -1,2 +1,2 @@
 #!/bin/bash
-a=$((WATER + STIR)) | echo $a
+expr $WATER + $STIR
